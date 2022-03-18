@@ -9,8 +9,11 @@ BlockGames NFT minting address: https://rinkeby.etherscan.io/tx/0xa1d150dda131e7
 
 
 Metadata Structure: {
+
     name: BlockGameNFT,
-    ipfs:// bafkreicztg53ue4bfpyno7b6cjjdqxxqjewzeknsxg4fmagmtpw5puzswq
+    
+    images: ipfs://bafkreicztg53ue4bfpyno7b6cjjdqxxqjewzeknsxg4fmagmtpw5puzswq
+    
     description : NFTS GOATEE
 
 }
